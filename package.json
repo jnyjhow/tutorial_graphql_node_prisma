@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/jnyjhow/tutorial_graphql_node_prisma#readme",
   "dependencies": {
+    "@prisma/client": "^4.3.1",
     "apollo-server": "^2.26.0",
     "graphql": "^14.7.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.3.1"
   }
 }
